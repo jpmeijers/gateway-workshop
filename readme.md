@@ -195,7 +195,7 @@ To configure our gateway we need to add it in the TTN console.
 <tr><td>Description</td><td>Human read-able description</td></tr>
 <tr><td>Frequency Plan</td><td>Europe 868MHz</td></tr>
 <tr><td>Router</td><td>ttn-router-eu</td></td>
-<tr><td>Location</td><td>do <b>not</b> set a location</td></tr>
+<tr><td>Location</td><td>click on the map at the location where the antenna will be installed</td></tr>
 <tr><td>Antenna Placement</td><td>Indoor</td></tr>
 </table>
 
